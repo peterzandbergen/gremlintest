@@ -1,0 +1,8 @@
+c:\Users\gebruiker\DevProjects\gremlintest\bin\Debug\netcoreapp1.1\gremlintest.deps.json
+c:\Users\gebruiker\DevProjects\gremlintest\bin\Debug\netcoreapp1.1\gremlintest.runtimeconfig.json
+c:\Users\gebruiker\DevProjects\gremlintest\bin\Debug\netcoreapp1.1\gremlintest.runtimeconfig.dev.json
+c:\Users\gebruiker\DevProjects\gremlintest\bin\Debug\netcoreapp1.1\gremlintest.dll
+c:\Users\gebruiker\DevProjects\gremlintest\bin\Debug\netcoreapp1.1\gremlintest.pdb
+c:\Users\gebruiker\DevProjects\gremlintest\obj\Debug\netcoreapp1.1\gremlintest.AssemblyInfo.cs
+c:\Users\gebruiker\DevProjects\gremlintest\obj\Debug\netcoreapp1.1\gremlintest.dll
+c:\Users\gebruiker\DevProjects\gremlintest\obj\Debug\netcoreapp1.1\gremlintest.pdb
